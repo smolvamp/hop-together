@@ -1,4 +1,4 @@
-# HopeTogether
+# HopTogether
 
 A React Native mobile application for coordinating rides and facilitating carpooling. Built with Expo and TypeScript.
 
@@ -32,7 +32,7 @@ A React Native mobile application for coordinating rides and facilitating carpoo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Hopetogether.git
+git clone https://github.com/yourusername/Hoptogether.git
 cd Hopetogether
 ```
 
